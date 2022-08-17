@@ -1,0 +1,17 @@
+
+
+.input-container {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0;
+}
+
+
+.input-container input {
+    padding: 1.2rem;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+}
